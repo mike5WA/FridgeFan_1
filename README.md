@@ -27,4 +27,3 @@ Monitor and adjust fan speed, display on 12 seg RYG led bar graph using 74HC595 
 NB Fans run at 12V don't mix up!!!
 
 Get lux levels so led's can be turned down at night
-Deleted weathershield data so this now only recording Fridge temp
